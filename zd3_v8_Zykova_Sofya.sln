@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd3_v8_Zykova_Sofya", "zd3_v8_Zykova_Sofya.csproj", "{B45BBA05-2530-4CD0-A4C0-E6AD466430D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTest", "..\CarTest\CarTest.csproj", "{0254F8BC-144F-442B-8844-54C6BAE5766C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45BBA05-2530-4CD0-A4C0-E6AD466430D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45BBA05-2530-4CD0-A4C0-E6AD466430D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45BBA05-2530-4CD0-A4C0-E6AD466430D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45BBA05-2530-4CD0-A4C0-E6AD466430D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0254F8BC-144F-442B-8844-54C6BAE5766C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0254F8BC-144F-442B-8844-54C6BAE5766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0254F8BC-144F-442B-8844-54C6BAE5766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0254F8BC-144F-442B-8844-54C6BAE5766C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4688C2FC-232B-4B08-8B60-5CEF85269F61}
+	EndGlobalSection
+EndGlobal
